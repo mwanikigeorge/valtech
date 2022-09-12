@@ -1,4 +1,4 @@
-#Valtech frontend test with Vue 3 + TypeScript + Vite
+# Valtech frontend test with Vue 3 + TypeScript + Vite
 
 ## Project setup
 
